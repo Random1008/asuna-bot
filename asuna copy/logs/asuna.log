@@ -1,0 +1,120 @@
+[2026-06-19 08:55:41] [INFO    ] asuna: Base de données initialisée (data/asuna.db)
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.help
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.general
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.moderation
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.automod
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.logs
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.logsetup
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.settings
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.verification
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.autoroles
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.custom
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.interface
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.economy
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.levels
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.rpg
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.tickets
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.tools
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.stats
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.games
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.security
+[2026-06-19 08:55:41] [INFO    ] asuna: Cog chargé : cogs.backups
+[2026-06-19 08:55:42] [INFO    ] asuna: Dashboard web démarré sur 0.0.0.0:8080
+[2026-06-19 08:55:42] [INFO    ] asuna: Slash commands synchronisées sur le serveur de dev (64).
+[2026-06-19 08:55:45] [INFO    ] asuna: Connecté en tant que Asuna#6339 (id=1502415766681686209)
+[2026-06-19 09:33:12] [INFO    ] asuna: Base de données initialisée (data/asuna.db)
+[2026-06-19 09:33:12] [INFO    ] asuna: Cog chargé : cogs.help
+[2026-06-19 09:33:12] [INFO    ] asuna: Cog chargé : cogs.general
+[2026-06-19 09:33:12] [INFO    ] asuna: Cog chargé : cogs.moderation
+[2026-06-19 09:33:12] [INFO    ] asuna: Cog chargé : cogs.automod
+[2026-06-19 09:33:13] [INFO    ] asuna: Cog chargé : cogs.logs
+[2026-06-19 09:33:13] [INFO    ] asuna: Cog chargé : cogs.logsetup
+[2026-06-19 09:33:13] [INFO    ] asuna: Cog chargé : cogs.settings
+[2026-06-19 09:33:13] [INFO    ] asuna: Cog chargé : cogs.verification
+[2026-06-19 09:33:13] [INFO    ] asuna: Cog chargé : cogs.autoroles
+[2026-06-19 09:33:13] [INFO    ] asuna: Cog chargé : cogs.custom
+[2026-06-19 09:33:13] [INFO    ] asuna: Cog chargé : cogs.interface
+[2026-06-19 09:33:13] [INFO    ] asuna: Cog chargé : cogs.economy
+[2026-06-19 09:33:14] [INFO    ] asuna: Cog chargé : cogs.levels
+[2026-06-19 09:33:16] [INFO    ] asuna: Cog chargé : cogs.rpg
+[2026-06-19 09:33:16] [INFO    ] asuna: Cog chargé : cogs.tickets
+[2026-06-19 09:33:16] [INFO    ] asuna: Cog chargé : cogs.tools
+[2026-06-19 09:33:16] [INFO    ] asuna: Cog chargé : cogs.stats
+[2026-06-19 09:33:16] [INFO    ] asuna: Cog chargé : cogs.games
+[2026-06-19 09:33:16] [INFO    ] asuna: Cog chargé : cogs.security
+[2026-06-19 09:33:16] [INFO    ] asuna: Cog chargé : cogs.backups
+[2026-06-19 09:33:17] [INFO    ] asuna: Dashboard web démarré sur 0.0.0.0:8080
+[2026-06-19 09:33:17] [INFO    ] asuna: Slash commands synchronisées sur le serveur de dev (64).
+[2026-06-19 09:33:20] [INFO    ] asuna: Connecté en tant que Asuna#6339 (id=1502415766681686209)
+[2026-06-19 09:37:05] [INFO    ] asuna: Base de données initialisée (data/asuna.db)
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.help
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.general
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.moderation
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.automod
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.logs
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.logsetup
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.settings
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.verification
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.autoroles
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.custom
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.interface
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.economy
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.levels
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.rpg
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.tickets
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.tools
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.stats
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.games
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.security
+[2026-06-19 09:37:05] [INFO    ] asuna: Cog chargé : cogs.backups
+[2026-06-19 09:37:05] [INFO    ] asuna: Dashboard web démarré sur 0.0.0.0:8080
+[2026-06-19 09:37:06] [INFO    ] asuna: Slash commands synchronisées sur le serveur de dev (64).
+[2026-06-19 09:37:08] [INFO    ] asuna: Connecté en tant que Asuna#6339 (id=1502415766681686209)
+[2026-06-19 09:47:32] [INFO    ] asuna: Base de données initialisée (data/asuna.db)
+[2026-06-19 09:47:32] [INFO    ] asuna: Cog chargé : cogs.help
+[2026-06-19 09:47:32] [INFO    ] asuna: Cog chargé : cogs.general
+[2026-06-19 09:47:32] [INFO    ] asuna: Cog chargé : cogs.moderation
+[2026-06-19 09:47:32] [INFO    ] asuna: Cog chargé : cogs.automod
+[2026-06-19 09:47:33] [INFO    ] asuna: Cog chargé : cogs.logs
+[2026-06-19 09:47:33] [INFO    ] asuna: Cog chargé : cogs.logsetup
+[2026-06-19 09:47:33] [INFO    ] asuna: Cog chargé : cogs.settings
+[2026-06-19 09:47:33] [INFO    ] asuna: Cog chargé : cogs.verification
+[2026-06-19 09:47:33] [INFO    ] asuna: Cog chargé : cogs.autoroles
+[2026-06-19 09:47:33] [INFO    ] asuna: Cog chargé : cogs.custom
+[2026-06-19 09:47:33] [INFO    ] asuna: Cog chargé : cogs.interface
+[2026-06-19 09:47:33] [INFO    ] asuna: Cog chargé : cogs.economy
+[2026-06-19 09:47:33] [INFO    ] asuna: Cog chargé : cogs.levels
+[2026-06-19 09:47:33] [INFO    ] asuna: Cog chargé : cogs.rpg
+[2026-06-19 09:47:33] [INFO    ] asuna: Cog chargé : cogs.tickets
+[2026-06-19 09:47:33] [INFO    ] asuna: Cog chargé : cogs.tools
+[2026-06-19 09:47:33] [INFO    ] asuna: Cog chargé : cogs.stats
+[2026-06-19 09:47:33] [INFO    ] asuna: Cog chargé : cogs.games
+[2026-06-19 09:47:33] [INFO    ] asuna: Cog chargé : cogs.security
+[2026-06-19 09:47:33] [INFO    ] asuna: Cog chargé : cogs.backups
+[2026-06-19 09:47:33] [INFO    ] asuna: Dashboard web démarré sur 0.0.0.0:8080
+[2026-06-19 09:47:33] [INFO    ] asuna: Slash commands synchronisées sur le serveur de dev (64).
+[2026-06-19 09:47:35] [INFO    ] asuna: Connecté en tant que Asuna#6339 (id=1502415766681686209)
+[2026-06-19 10:27:53] [INFO    ] asuna: Base de données initialisée (data/asuna.db)
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.help
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.general
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.moderation
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.automod
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.logs
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.logsetup
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.settings
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.verification
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.autoroles
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.custom
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.interface
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.economy
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.levels
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.rpg
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.tickets
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.tools
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.stats
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.games
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.security
+[2026-06-19 10:27:53] [INFO    ] asuna: Cog chargé : cogs.backups
+[2026-06-19 10:27:53] [INFO    ] asuna: Dashboard web démarré sur 0.0.0.0:8080
+[2026-06-19 10:27:53] [INFO    ] asuna: Slash commands synchronisées sur le serveur de dev (62).
+[2026-06-19 10:27:56] [INFO    ] asuna: Connecté en tant que Asuna#6339 (id=1502415766681686209)

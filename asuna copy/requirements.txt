@@ -1,0 +1,6 @@
+# Dépendances du bot Asuna
+discord.py>=2.3.2
+aiosqlite>=0.19.0
+python-dotenv>=1.0.0
+Pillow>=10.0.0          # rendu des scènes de combat (UI style Undertale)
+# aiohttp est déjà une dépendance de discord.py — utilisé pour le dashboard web.
